@@ -34,7 +34,7 @@ p {
 
 .box-title {
   text-align: center;
-  background-color: #172A3A;
+  background-color: #A6D9F7;
   border: 1px solid black;
   width: 30%;
   height: 15%;
@@ -43,6 +43,14 @@ p {
   top: -1px;
   padding: 5px;
   border-radius: 2px
+}
+
+.blue {
+  background-color: #00A5CF;
+}
+
+.violet {
+  background-color: #C9C9EE;
 }
 
 .row {
